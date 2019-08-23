@@ -1,8 +1,13 @@
 # 自我介绍
 
-我热爱编程，下面是我刚学编程时敲出的第一行代码：
+我热爱编程，这是我刚学编程时敲出的第一行代码：
+
+`console.log('hello world');`
+
+敲出的第一段代码：
 ```javascript
-console.log('hello world');
+<h1> tile </h1>
+<p> paragraph </p>
 ```
 我的业余爱好有：
 1. 看书
